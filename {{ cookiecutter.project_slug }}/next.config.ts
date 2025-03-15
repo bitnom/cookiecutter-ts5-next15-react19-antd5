@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  transpilePackages: ['@ant-design'],
+  webpack(config) {
+    return config;
+  }
 };
 
 export default nextConfig;
