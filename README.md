@@ -10,5 +10,5 @@ Ant Design: 5
 ## uv usage
 
 ```bash
-uvx cookiecutter "git+https://github.com/bitnom/cookiecutter-ts5-next15-react19-antd5"
+uvx cookiecutter https://github.com/bitnom/cookiecutter-ts5-next15-react19-antd5.git
 ```
