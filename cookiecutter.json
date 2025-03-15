@@ -1,5 +1,5 @@
 {
-    "project_name": "Typescript Next.js project with React 19 and Ant Design 5",
+    "project_name": "Typescript5 Next.js 15 project with React 19 and Ant Design 5",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "author": "bitnom"
 }
